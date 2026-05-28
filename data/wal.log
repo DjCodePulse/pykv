@@ -1,0 +1,14 @@
+{"ts": "2026-05-27T16:26:36.122427", "op": "SET", "key": "name", "value": "DjCodepulse", "ttl": 0}
+{"ts": "2026-05-27T16:34:54.345856", "op": "SET", "key": "testkey", "value": "Hello World", "ttl": null}
+{"ts": "2026-05-28T16:15:48.211602", "op": "SET", "key": "testkey", "value": "CLI is now working!", "ttl": null}
+{"ts": "2026-05-28T16:27:09.176352", "op": "SET", "key": "username", "value": "DjCodepulse", "ttl": null}
+{"ts": "2026-05-28T16:29:05.072706", "op": "SET", "key": "Hail Mary was awesome ", "value": "string", "ttl": 0}
+{"ts": "2026-05-28T16:29:07.289182", "op": "SET", "key": "Hail Mary was awesome ", "value": "string", "ttl": 0}
+{"ts": "2026-05-28T16:29:11.716281", "op": "SET", "key": "Hail Mary was awesome ", "value": "string", "ttl": 0}
+{"ts": "2026-05-28T16:29:36.854018", "op": "SET", "key": "little", "value": "string", "ttl": 0}
+{"ts": "2026-05-28T16:29:39.621922", "op": "SET", "key": "little", "value": "string", "ttl": 0}
+{"ts": "2026-05-28T16:31:55.717963", "op": "SET", "key": "hello world", "value": "string", "ttl": 0}
+{"ts": "2026-05-28T16:31:58.234135", "op": "SET", "key": "hello world", "value": "string", "ttl": 0}
+{"ts": "2026-05-28T16:36:33.307842", "op": "SET", "key": "hello world", "value": "string", "ttl": 0}
+{"ts": "2026-05-28T16:44:28.733689", "op": "SET", "key": "username", "value": "DjCodepulse", "ttl": null}
+{"ts": "2026-05-28T16:44:29.981926", "op": "DELETE", "key": "username", "value": null, "ttl": null}

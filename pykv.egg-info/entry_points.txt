@@ -1,0 +1,2 @@
+[console_scripts]
+pykv = pykv.cli:app
